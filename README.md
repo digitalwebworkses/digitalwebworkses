@@ -1,16 +1,46 @@
-## Hi there 👋
+# Carlos M. Márquez
 
-<!--
-**digitalwebworkses/digitalwebworkses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Architect & Developer · Digital Web Works**
 
-Here are some ideas to get you started:
+I build technology that solves real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across software development, system integration, automation, web
+technology and infrastructure — from architecture and code to the systems
+that run it.
+
+## Digital Web Works
+
+**Technology that solves problems.**
+
+Digital Web Works is a technology studio focused on building practical
+software, integrations and automation without adding unnecessary complexity.
+
+→ https://www.digitalwebworkstech.es
+
+## What I work with
+
+- Astro · TypeScript · JavaScript
+- WordPress · WooCommerce · Moodle
+- Docker · Linux · Caddy
+- Web applications & integrations
+- Automation & infrastructure
+- SEO & web performance
+
+## Current projects
+
+### TheGafferApp
+
+A web application for managing recurring football matches, replacing a
+spreadsheet-based workflow with a dedicated operational tool.
+
+### DWW Moodle Bridge
+
+Integration tooling connecting WooCommerce and Moodle.
+
+### DWW Fingerprinting
+
+Document traceability and fingerprinting for digital content.
+
+---
+
+> First the problem. Then the technology.
